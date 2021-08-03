@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End Web Development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on any webpage development
-- 📫 How to reach me email: tomsronis@gmail.com
+- 📫 How to reach me: My email - tomsronis@gmail.com
 
 <!---
 tomsr18/tomsr18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
